@@ -28,4 +28,4 @@ please build sample, and "popsChord-sample2.{ly|pdf}" .
 
 ## auther
 
-    Kuruma,Keizo k@flat7th.org
+    Kuruma,Keizo k@ nospam flat7th.org (please remove nospam)
