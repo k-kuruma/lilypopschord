@@ -3,7 +3,7 @@ Enables Pops-style code naming and Roman numeral degree code naming in LilyPond 
 
 ## how to use
 
-please build sample, and "popsChord-sample2.{ly|pdf}" .
+please build sample, and refer "popsChord-sample2.{ly|pdf}" .
 
 
 ## how to build sample
