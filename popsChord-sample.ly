@@ -1,3 +1,4 @@
+%% Kuruma,Keizo k@ nospam flat7th.org (please remove nospam)
 \version "2.23.12"
 \include "popsChord.ily"
 

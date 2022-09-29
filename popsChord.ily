@@ -1,6 +1,5 @@
+%% Kuruma,Keizo k@ nospam flat7th.org (please remove nospam)
 \version "2.23.12"
-
-% コードモディファイヤーのマークアップをカスタマイズする。
 
 %% modification of the procedure "chordRootNamer", Pops Chord Name
 %%---- Definition of chord alterations -------
@@ -155,5 +154,3 @@ popsChordExcept = #(append
     chordNameExceptions = #popsChordExcept  % update the chord exceptions
   }
 }
-
-
