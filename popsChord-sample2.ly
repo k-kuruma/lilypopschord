@@ -1,5 +1,5 @@
 %% Kuruma,Keizo k@ nospam flat7th.org (please remove nospam)
-\version "2.23.12"
+\version "2.25.12"
 \include "popsChord.ily"
 
 myOriginalKey = c

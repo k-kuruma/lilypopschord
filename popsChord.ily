@@ -1,5 +1,5 @@
 %% Kuruma,Keizo k@ nospam flat7th.org (please remove nospam)
-\version "2.23.12"
+\version "2.25.12"
 
 %% modification of the procedure "chordRootNamer", Pops Chord Name
 %%---- Definition of chord alterations -------
@@ -143,7 +143,7 @@ popsChordExcept = #(append
   ignatzekExceptions)
 
 \layout {
-  \override ChordName.font-family = #'roman
+  \override ChordName.font-family = #'serif
   \override ChordName.font-size = #2.0
   \context {
     \ChordNames
